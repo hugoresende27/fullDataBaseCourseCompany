@@ -11,4 +11,4 @@ CREATE
 	FOR EACH ROW BEGIN 
 		INSERT INTO trigger_test VALUES ("Adiciona novo empregado");
 	END$$ -- termina a instruçao
-delimiter ; -- volto a por delimiter como ;
+delimiter ; -- volto a por delimiter como ;supermercadoclientes
